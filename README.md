@@ -7,4 +7,4 @@ open state/ has selection
 
 selected item state / Three Item
 
-Visit Site: [Link](https://abdallah-miri.github.io/Custom_Dropdown/)
+Visit Site: https://abdallah-miri.github.io/Custom_Dropdown/
